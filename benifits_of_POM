@@ -1,0 +1,30 @@
+Benefits of This POM Structure
+
+
+Separation of Concerns: UI interactions and test logic are separate.
+Scalability: Adding new fields/tests requires minimal changes.
+Readability & Maintainability: Easy to understand and update.
+Reusability: RegistrationPage can be reused for multiple tests.
+
+
+
+Key Improvements:
+
+Page Objects: Created a separate RegistrationPage class for UI interactions.
+Test Class: Moved test logic into a TestRegistration class.
+Data Handling: Parameterized test with CSV data.
+Assertions: Kept validation methods clean.
+
+
+project/
+│── pages/
+│   ├── registration_page.py
+│── tests/
+│   ├── test_registration.py
+│── data/
+│   ├── test_pom_data.csv
+│── conftest.py
+│── requirements.txt
+
+
+
