@@ -1,0 +1,14 @@
+name,email,password,gender,employment_status
+John Doe,john.doe@example.com,Pass@123,Male,Employed
+Alice Smith,alice.smith@example.com,Test@456,Female,Student
+Robert Brown,robert.brown@example.com,Secure@789,Male,Student
+Emily Davis,emily.davis@example.com,Alpha@321,Female,Employed
+Michael Wilson,michael.wilson@example.com,Beta@654,Male,Student
+Sophia Martinez,sophia.martinez@example.com,Omega@987,Female,Employed
+David Johnson,david.johnson@example.com,Gamma@111,Male,Student
+Emma White,emma.white@example.com,Delta@222,Female,Student
+James Anderson,james.anderson@example.com,Epsilon@333,Male,Student
+Olivia Taylor,olivia.taylor@example.com,Zeta@444,Female,Employed
+
+
+# THIS FILE IS BASICALLY USED FOR STORING DATA FOR TESTING
